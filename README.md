@@ -9,37 +9,21 @@
 
 💻 Software Engineer | 🛠️ Web Developer | 🚀 Tech Enthusiast
 
-Passionate about building full-stack web applications, solving real-world problems, and learning new technologies every day. I thrive in collaborative environments and love turning ideas into reality.
-
 </div>
-
----
-
-### 🧰 Tech Stack
-
-- **Languages:** JavaScript, TypeScript, Java, Python
-- **Frontend:** React, Vue, Next.js, Nuxt, Tailwind CSS
-- **Backend:** Node.js, Express, Firebase, Directus
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, GitHub, Docker, Postman
-
----
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keenanlombard&show_icons=true&theme=radical" alt="Keenan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KeenanLombard&show_icons=true&theme=radical" alt="Keenan's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keenanlombard&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeenanLombard&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Get in Touch
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/keenan-lombard/)
-- 🌐 [Personal Website](https://yourwebsite.com) <!-- Optional -->
-- ✉️ keenan@example.com <!-- Replace with your actual email if you want -->
+- ✉️ keenanlombardd2@gmail.com <!-- Replace with your actual email if you want -->
 
 ---
 
