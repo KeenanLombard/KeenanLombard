@@ -11,22 +11,6 @@
 
 </div>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KeenanLombard&show_icons=true&theme=radical" alt="Keenan's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeenanLombard&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Get in Touch
-
-- ✉️ keenanlombardd2@gmail.com <!-- Replace with your actual email if you want -->
-
----
-
 <div align="center">
 
 🔥 Always learning, always building. Let's connect and create something amazing!
