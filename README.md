@@ -3,15 +3,3 @@
 </p>
 
 <div align="center">
-
-# 👋 Hi, I'm Keenan Lombard
-
-💻 Software Engineer | 🛠️ Web Developer | 🚀 Tech Enthusiast
-
-</div>
-
-<div align="center">
-
-🔥 Always learning, always building. Let's connect and create something amazing!
-
-</div>
