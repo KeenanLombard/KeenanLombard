@@ -12,8 +12,7 @@
 
 <br/>
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeenanLombard&theme=tokyonight)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeenanLombard&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 </div>
 
