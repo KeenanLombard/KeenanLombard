@@ -5,14 +5,10 @@
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![Vue](https://img.shields.io/badge/Framework-Vue-green?logo=vue.js)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeenanLombard&layout=compact&theme=radical)
 
 </div>
 
