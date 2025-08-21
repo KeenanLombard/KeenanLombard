@@ -7,8 +7,8 @@
 
 <br/>
 
-![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
-![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KeenanLombard&theme=tokyonight)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KeenanLombard&theme=tokyonight)
 
 </div>
 <p align="center">
