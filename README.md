@@ -1,14 +1,14 @@
 <div align="center">
 
-### 🛠️ Tech Stacks I Use
-
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
 ![Python](https://img.shields.io/badge/Code-Python-blue?logo=python)
-![Java](https://img.shields.io/badge/Code-Java-red?logo=java)
 ![Vue](https://img.shields.io/badge/Framework-Vue-green?logo=vue.js)
-![React](https://img.shields.io/badge/Framework-React-61DAFB?logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql)
+
+<br/>
+
+![Repos per Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
+![Most Commit Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_GITHUB_USERNAME&theme=tokyonight)
 
 </div>
 <p align="center">
