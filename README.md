@@ -5,10 +5,3 @@
 
 <div align="center">
 
-
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeenanLombard&layout=compact&theme=radical)
-
-</div>
-
